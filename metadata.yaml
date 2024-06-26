@@ -1,0 +1,25 @@
+_repo: Puhettako-parantelemaan-b-Yksinaytoksinen-nayttamokohtaus_73810
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Räsänen, Santeri
+    gutenberg_agent_id: '57229'
+    url: http://www.gutenberg.org/2009/agents/57229
+description: ''
+gutenberg_issued: '2024-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73810'
+language: fi
+pgterms:marc905: 20240512032557rsnen
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Puhettako parantelemaan : $b Yksinäytöksinen näyttämökohtaus'
+url: http://www.gutenberg.org/ebooks/73810
