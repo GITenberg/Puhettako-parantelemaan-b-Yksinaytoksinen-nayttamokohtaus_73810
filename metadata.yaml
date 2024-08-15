@@ -1,11 +1,16 @@
 _repo: Puhettako-parantelemaan-b-Yksinaytoksinen-nayttamokohtaus_73810
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Räsänen, Santeri
     gutenberg_agent_id: '57229'
     url: http://www.gutenberg.org/2009/agents/57229
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73810#Puhettako-parantelemaan-b-Yksinaytoksinen-nayttamokohtaus
 gutenberg_issued: '2024-06-11'
 gutenberg_type: Text
 identifiers:
